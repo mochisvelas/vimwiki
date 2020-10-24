@@ -1,1 +1,1 @@
-=== My first wiki note :) ===
+=== My first vim wiki note :) ===
