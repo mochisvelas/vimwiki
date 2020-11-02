@@ -6,4 +6,4 @@ TODO:
 
 DONE:
 
-- [ ] DB project
+- [x] DB project

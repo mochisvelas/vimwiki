@@ -1,2 +1,2 @@
 # My knowledge base
-	*[Tasks](Tasks)
+	*[[Tasks]](Tasks)
