@@ -2,8 +2,8 @@
 
 PENDING:
 
-- [ ] [macro cipher](macro-cipher.md)
 
 DONE:
 
+- [x] [macro cipher](macro-cipher.md)
 - [x] DB project
