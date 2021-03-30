@@ -1,3 +1,3 @@
 # My wiki
-* [cheatsheets](cheatsheets.md)
-* [docs](docs.md)
+* cheatsheets(cheatsheets.md)
+* docs(docs.md)
